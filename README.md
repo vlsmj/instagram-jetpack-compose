@@ -1,5 +1,5 @@
 # instagram-jetpack-compose
-Jetpack Compose practice by designing Instagram profile screen.
+Jetpack Compose by designing Instagram profile screen.
 
 Learned from the tutorials of Philipp Lackner, made a few adjustments and added custom data. Copied the Instagram profile from the latest design.
 
